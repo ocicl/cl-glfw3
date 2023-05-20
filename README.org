@@ -1,0 +1,9 @@
+* cl-glfw3
+
+Common Lisp bindings to GLFW version 3.x
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/AlexCharlton/cl-glfw3.git |
+| commit  | 32c3f34                                          |
+| systems | cl-glfw3                                         |
+|---------+--------------------------------------------------|
